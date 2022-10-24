@@ -1,6 +1,13 @@
-body {
-    background-image: url(https://photos.smugmug.com/Blog/Creative-Commons-2/i-r7Z3Tb8/0/e0b39aeb/O/tokyo-japan-2014-train-station-rush-hour.jpg);
-    background-size: cover;
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(https://photos.smugmug.com/Blog/Creative-Commons-2/i-r7Z3Tb8/0/e0b39aeb/O/tokyo-japan-2014-train-station-rush-hour.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 li {
