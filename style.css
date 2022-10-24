@@ -33,6 +33,7 @@ h2 {
 
 p {
     color: #FFAD00;
-    word-spacing: 13rem;
+    word-spacing: 40rem;
     text-decoration: underline overline;
+    font-size: 2rem;
 }
